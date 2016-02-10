@@ -1,5 +1,5 @@
 Feature: Feature name
-  JIRA: XX-{####}, XX-{####}
+  JIRA: <a>XX-{####}, XX-{####}</a>
   Scenario: Scenario name
     Given Given name
     And And name

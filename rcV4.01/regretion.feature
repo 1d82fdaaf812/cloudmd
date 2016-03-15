@@ -1,2 +1,2 @@
-Featute
+Feature Template
 ...
